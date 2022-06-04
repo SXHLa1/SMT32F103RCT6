@@ -59,7 +59,6 @@ int main(void)
 	delay_init();
 	NVIC_PriorityGroupConfig(NVIC_PriorityGroup_2);
     My_usart_init();
-	USART_RX_STA
 	
 	
 }	
